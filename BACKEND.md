@@ -7,3 +7,4 @@
 - Eddy Castillon
 - Henry
 - Sergio Aguilar
+- Pedro
