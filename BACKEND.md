@@ -7,6 +7,5 @@
 - Eddy Castillon
 - Henry
 - Sergio Aguilar
--Alexis Andia
--Alexis Andia 2
-
+- Alexis Andia
+- José Chirif
