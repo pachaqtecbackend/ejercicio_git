@@ -1,5 +1,9 @@
 # Profesor
+
 - Jeancarlos De la cruz Criollo
 
 # Alumnos
-Sergio Aguilar
+- John Olano Mendoza
+- Eddy Castillon
+- Henry
+- Sergio Aguilar
