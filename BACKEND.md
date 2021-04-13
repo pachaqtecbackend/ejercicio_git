@@ -6,3 +6,4 @@
 - John Olano Mendoza
 - Eddy Castillon
 - Henry
+- Sergio Aguilar
