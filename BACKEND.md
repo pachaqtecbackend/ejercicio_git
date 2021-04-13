@@ -9,3 +9,5 @@
 - Sergio Aguilar
 -Alexis Andia
 -Francisco Aquiño
+- Alexis Andia
+- José Chirif
