@@ -9,3 +9,4 @@
 - Sergio Aguilar
 - Alexis Andia
 - José Chirif
+- Hector
