@@ -10,3 +10,5 @@
 - Alexis Andia
 - José Chirif
 - Ronnie Gonzales
+- Alberto Quispe
+-
